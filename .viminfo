@@ -170,22 +170,22 @@ $31
 	f
 
 # File marks:
-'0  2  55  ~/backup/vim/initialize.sh
-'1  2  94  ~/backup/initialize.sh
-'2  1  0  ~/backup/GitHub/push.txt
-'3  36  0  ~/Downloads/BasicConfiguration-master/autosetSL7/autoinstallemacs.sh
-'4  30  0  ~/.bashrc
-'5  23  0  ~/software/radware/radware.bashrc
-'6  33  0  ~/.bashrc
-'7  44  58  ~/.bashrc
-'8  1  0  ~/CSM/73Ge/n.txt
-'9  1  0  ~/CSM/input.txt
+'0  1  0  ~/backup/initialize.sh
+'1  2  55  ~/backup/vim/initialize.sh
+'2  3  94  ~/backup/initialize.sh
+'3  1  0  ~/backup/GitHub/push.txt
+'4  36  0  ~/Downloads/BasicConfiguration-master/autosetSL7/autoinstallemacs.sh
+'5  30  0  ~/.bashrc
+'6  23  0  ~/software/radware/radware.bashrc
+'7  33  0  ~/.bashrc
+'8  44  58  ~/.bashrc
+'9  1  0  ~/CSM/73Ge/n.txt
 
 # Jumplist (newest first):
+-'  1  0  ~/backup/initialize.sh
+-'  3  0  ~/backup/initialize.sh
 -'  2  55  ~/backup/vim/initialize.sh
 -'  1  0  ~/backup/vim/initialize.sh
--'  2  94  ~/backup/initialize.sh
--'  1  0  ~/backup/initialize.sh
 -'  1  0  ~/backup/GitHub/push.txt
 -'  36  0  ~/Downloads/BasicConfiguration-master/autosetSL7/autoinstallemacs.sh
 -'  1  0  ~/Downloads/BasicConfiguration-master/autosetSL7/autoinstallemacs.sh
@@ -279,20 +279,19 @@ $31
 -'  1  0  /opt/root60602/tutorials/fit/fit1.C
 -'  39  0  ~/.bashrc
 -'  24  2  ~/Documents/cpp_code/input_output/tree2tree.cpp
--'  3  42  ~/Documents/cpp_code/th2f.cpp
--'  4  2  ~/Documents/cpp_code/th2f.cpp
 
 # History of marks within files (newest to oldest):
+
+> ~/backup/initialize.sh
+	"	1	0
+	^	1	0
+	.	1	0
+	+	3	55
+	+	1	0
 
 > ~/backup/vim/initialize.sh
 	"	2	55
 	^	2	56
-	.	2	55
-	+	2	55
-
-> ~/backup/initialize.sh
-	"	2	94
-	^	2	97
 	.	2	55
 	+	2	55
 
